@@ -1,0 +1,246 @@
+2021-02-21 00:42:16 [main] INFO 
+			com.epam.task3.action.PerimeterSquareAction- perimeter of the oval is:28.099258924162907
+2021-02-21 00:42:16 [main] INFO 
+			com.epam.task3.action.PerimeterSquareAction- square of the oval is:37.69911184307752
+2021-02-21 00:42:16 [main] INFO 
+			com.epam.task3.entity.OvalWarehouse- Successful addition
+2021-02-21 00:42:16 [main] INFO 
+			epam.task3.observer.impl.OvalObserver- Data was updated.
+2021-02-21 00:42:16 [main] INFO 
+			com.epam.task3.action.PerimeterSquareAction- perimeter of the oval is:28.099258924162907
+2021-02-21 00:42:38 [main] INFO 
+			com.epam.task3.action.PerimeterSquareAction- perimeter of the oval is:28.099258924162907
+2021-02-21 00:42:38 [main] INFO 
+			com.epam.task3.action.PerimeterSquareAction- square of the oval is:37.69911184307752
+2021-02-21 00:42:38 [main] INFO 
+			com.epam.task3.entity.OvalWarehouse- Successful addition
+2021-02-21 00:42:38 [main] INFO 
+			epam.task3.observer.impl.OvalObserver- Data was updated.
+2021-02-21 00:42:54 [main] INFO 
+			com.epam.task3.action.PerimeterSquareAction- perimeter of the oval is:28.099258924162907
+2021-02-21 00:42:54 [main] INFO 
+			com.epam.task3.action.PerimeterSquareAction- square of the oval is:37.69911184307752
+2021-02-21 00:42:54 [main] INFO 
+			com.epam.task3.entity.OvalWarehouse- Successful addition
+2021-02-21 00:42:54 [main] INFO 
+			epam.task3.observer.impl.OvalObserver- Data was updated.
+2021-02-21 00:42:54 [main] INFO 
+			com.epam.task3.action.PerimeterSquareAction- perimeter of the oval is:28.099258924162907
+2021-02-21 00:44:10 [main] INFO 
+			com.epam.task3.action.PerimeterSquareAction- perimeter of the oval is:28.099258924162907
+2021-02-21 00:44:10 [main] INFO 
+			com.epam.task3.action.PerimeterSquareAction- square of the oval is:37.69911184307752
+2021-02-21 00:44:10 [main] INFO 
+			com.epam.task3.entity.OvalWarehouse- Successful addition
+2021-02-21 00:44:10 [main] INFO 
+			epam.task3.observer.impl.OvalObserver- Data was updated.
+2021-02-21 00:44:10 [main] INFO 
+			com.epam.task3.action.PerimeterSquareAction- perimeter of the oval is:28.099258924162907
+2021-02-21 00:44:34 [main] INFO 
+			com.epam.task3.action.PerimeterSquareAction- perimeter of the oval is:28.099258924162907
+2021-02-21 00:44:34 [main] INFO 
+			com.epam.task3.action.PerimeterSquareAction- square of the oval is:37.69911184307752
+2021-02-21 00:44:34 [main] INFO 
+			com.epam.task3.entity.OvalWarehouse- Successful addition
+2021-02-21 00:44:34 [main] INFO 
+			epam.task3.observer.impl.OvalObserver- Data was updated.
+2021-02-21 00:44:49 [main] INFO 
+			com.epam.task3.action.PerimeterSquareAction- perimeter of the oval is:28.099258924162907
+2021-02-21 00:45:48 [main] INFO 
+			com.epam.task3.action.PerimeterSquareAction- perimeter of the oval is:28.099258924162907
+2021-02-21 00:45:48 [main] INFO 
+			com.epam.task3.action.PerimeterSquareAction- square of the oval is:37.69911184307752
+2021-02-21 00:45:48 [main] INFO 
+			com.epam.task3.entity.OvalWarehouse- Successful addition
+2021-02-21 00:45:48 [main] INFO 
+			epam.task3.observer.impl.OvalObserver- Data was updated.
+2021-02-21 00:45:48 [main] INFO 
+			com.epam.task3.action.PerimeterSquareAction- perimeter of the oval is:28.099258924162907
+2021-02-21 00:46:15 [main] INFO 
+			com.epam.task3.action.PerimeterSquareAction- perimeter of the oval is:28.099258924162907
+2021-02-21 00:46:15 [main] INFO 
+			com.epam.task3.action.PerimeterSquareAction- square of the oval is:37.69911184307752
+2021-02-21 00:46:15 [main] INFO 
+			com.epam.task3.entity.OvalWarehouse- Successful addition
+2021-02-21 00:46:15 [main] INFO 
+			epam.task3.observer.impl.OvalObserver- Data was updated.
+2021-02-21 00:46:15 [main] INFO 
+			com.epam.task3.action.PerimeterSquareAction- perimeter of the oval is:28.099258924162907
+2021-02-21 00:46:42 [main] INFO 
+			com.epam.task3.action.PerimeterSquareAction- perimeter of the oval is:28.099258924162907
+2021-02-21 00:46:42 [main] INFO 
+			com.epam.task3.action.PerimeterSquareAction- square of the oval is:37.69911184307752
+2021-02-21 00:46:42 [main] INFO 
+			com.epam.task3.entity.OvalWarehouse- Successful addition
+2021-02-21 00:46:42 [main] INFO 
+			epam.task3.observer.impl.OvalObserver- Data was updated.
+2021-02-21 00:46:42 [main] INFO 
+			com.epam.task3.action.PerimeterSquareAction- perimeter of the oval is:28.099258924162907
+2021-02-21 00:47:31 [main] INFO 
+			com.epam.task3.action.PerimeterSquareAction- perimeter of the oval is:28.099258924162907
+2021-02-21 00:47:31 [main] INFO 
+			com.epam.task3.action.PerimeterSquareAction- square of the oval is:37.69911184307752
+2021-02-21 00:47:31 [main] INFO 
+			com.epam.task3.entity.OvalWarehouse- Successful addition
+2021-02-21 00:47:31 [main] INFO 
+			epam.task3.observer.impl.OvalObserver- Data was updated.
+2021-02-21 00:47:31 [main] INFO 
+			com.epam.task3.action.PerimeterSquareAction- perimeter of the oval is:28.099258924162907
+2021-02-21 00:47:51 [main] INFO 
+			com.epam.task3.action.PerimeterSquareAction- square of the oval is:37.69911184307752
+2021-02-21 00:48:22 [main] INFO 
+			com.epam.task3.action.PerimeterSquareAction- perimeter of the oval is:28.099258924162907
+2021-02-21 00:48:22 [main] INFO 
+			com.epam.task3.action.PerimeterSquareAction- square of the oval is:37.69911184307752
+2021-02-21 00:48:22 [main] INFO 
+			com.epam.task3.entity.OvalWarehouse- Successful addition
+2021-02-21 00:48:22 [main] INFO 
+			epam.task3.observer.impl.OvalObserver- Data was updated.
+2021-02-21 00:48:22 [main] INFO 
+			com.epam.task3.action.PerimeterSquareAction- square of the oval is:37.69911184307752
+2021-02-21 01:51:05 [main] INFO 
+			com.epam.task3.validator.OvalDataValidator- Data was checked. Result: false
+2021-02-21 01:51:05 [main] INFO 
+			com.epam.task3.validator.OvalDataValidator- Data was checked. Result: true
+2021-02-21 02:05:43 [main] INFO 
+			com.epam.task3.validator.PointDataValidator- Data was checked. Result: false
+2021-02-21 02:05:43 [main] INFO 
+			com.epam.task3.validator.PointDataValidator- Data was checked. Result: true
+2021-02-21 02:05:43 [main] INFO 
+			com.epam.task3.validator.PointDataValidator- Data was checked. Result: true
+2021-02-21 12:51:51 [main] INFO 
+			com.epam.task3.action.PerimeterSquareAction- perimeter of the oval is:7.695298980971185
+2021-02-21 12:51:51 [main] INFO 
+			com.epam.task3.action.PerimeterSquareAction- square of the oval is:4.442882938158366
+2021-02-21 12:51:51 [main] INFO 
+			com.epam.task3.entity.OvalWarehouse- Successful addition
+2021-02-21 12:51:51 [main] INFO 
+			epam.task3.observer.impl.OvalObserver- Data was updated.
+2021-02-21 12:54:05 [main] INFO 
+			com.epam.task3.action.PerimeterSquareAction- perimeter of the oval is:28.099258924162907
+2021-02-21 12:54:05 [main] INFO 
+			com.epam.task3.action.PerimeterSquareAction- square of the oval is:37.69911184307752
+2021-02-21 12:54:05 [main] INFO 
+			com.epam.task3.entity.OvalWarehouse- Successful addition
+2021-02-21 12:54:05 [main] INFO 
+			epam.task3.observer.impl.OvalObserver- Data was updated.
+2021-02-21 12:54:13 [main] INFO 
+			com.epam.task3.action.PerimeterSquareAction- perimeter of the oval is:7.695298980971185
+2021-02-21 12:54:13 [main] INFO 
+			com.epam.task3.action.PerimeterSquareAction- square of the oval is:4.442882938158366
+2021-02-21 12:54:13 [main] INFO 
+			com.epam.task3.entity.OvalWarehouse- Successful addition
+2021-02-21 12:54:13 [main] INFO 
+			epam.task3.observer.impl.OvalObserver- Data was updated.
+2021-02-21 12:57:06 [main] INFO 
+			com.epam.task3.action.PerimeterSquareAction- perimeter of the oval is:28.099258924162907
+2021-02-21 12:57:06 [main] INFO 
+			com.epam.task3.action.PerimeterSquareAction- square of the oval is:37.69911184307752
+2021-02-21 12:57:06 [main] INFO 
+			com.epam.task3.entity.OvalWarehouse- Successful addition
+2021-02-21 12:57:06 [main] INFO 
+			epam.task3.observer.impl.OvalObserver- Data was updated.
+2021-02-21 12:57:06 [main] INFO 
+			com.epam.task3.action.PerimeterSquareAction- perimeter of the oval is:28.099258924162907
+2021-02-21 12:57:06 [main] INFO 
+			com.epam.task3.action.PerimeterSquareAction- square of the oval is:37.69911184307752
+2021-02-21 12:57:06 [main] INFO 
+			com.epam.task3.entity.OvalWarehouse- Successful addition
+2021-02-21 12:57:06 [main] INFO 
+			epam.task3.observer.impl.OvalObserver- Data was updated.
+2021-02-21 12:57:34 [main] INFO 
+			com.epam.task3.action.PerimeterSquareAction- perimeter of the oval is:7.695298980971185
+2021-02-21 12:57:34 [main] INFO 
+			com.epam.task3.action.PerimeterSquareAction- square of the oval is:4.442882938158366
+2021-02-21 12:57:34 [main] INFO 
+			com.epam.task3.entity.OvalWarehouse- Successful addition
+2021-02-21 12:57:34 [main] INFO 
+			epam.task3.observer.impl.OvalObserver- Data was updated.
+2021-02-21 12:57:34 [main] INFO 
+			com.epam.task3.action.PerimeterSquareAction- perimeter of the oval is:7.695298980971185
+2021-02-21 12:57:34 [main] INFO 
+			com.epam.task3.action.PerimeterSquareAction- square of the oval is:4.442882938158366
+2021-02-21 12:57:34 [main] INFO 
+			com.epam.task3.entity.OvalWarehouse- Successful addition
+2021-02-21 12:57:34 [main] INFO 
+			epam.task3.observer.impl.OvalObserver- Data was updated.
+2021-02-21 12:57:46 [main] INFO 
+			com.epam.task3.action.PerimeterSquareAction- perimeter of the oval is:7.695298980971185
+2021-02-21 12:57:46 [main] INFO 
+			com.epam.task3.action.PerimeterSquareAction- square of the oval is:4.442882938158366
+2021-02-21 12:57:46 [main] INFO 
+			com.epam.task3.entity.OvalWarehouse- Successful addition
+2021-02-21 12:57:46 [main] INFO 
+			epam.task3.observer.impl.OvalObserver- Data was updated.
+2021-02-21 12:57:56 [main] INFO 
+			com.epam.task3.action.PerimeterSquareAction- perimeter of the oval is:7.695298980971185
+2021-02-21 12:57:56 [main] INFO 
+			com.epam.task3.action.PerimeterSquareAction- square of the oval is:4.442882938158366
+2021-02-21 12:57:56 [main] INFO 
+			com.epam.task3.entity.OvalWarehouse- Successful addition
+2021-02-21 12:57:56 [main] INFO 
+			epam.task3.observer.impl.OvalObserver- Data was updated.
+2021-02-21 12:58:09 [main] INFO 
+			com.epam.task3.action.PerimeterSquareAction- perimeter of the oval is:7.695298980971185
+2021-02-21 12:58:09 [main] INFO 
+			com.epam.task3.action.PerimeterSquareAction- square of the oval is:4.442882938158366
+2021-02-21 12:58:09 [main] INFO 
+			com.epam.task3.entity.OvalWarehouse- Successful addition
+2021-02-21 12:58:09 [main] INFO 
+			epam.task3.observer.impl.OvalObserver- Data was updated.
+2021-02-21 12:58:09 [main] INFO 
+			com.epam.task3.action.PerimeterSquareAction- perimeter of the oval is:7.695298980971185
+2021-02-21 12:58:09 [main] INFO 
+			com.epam.task3.action.PerimeterSquareAction- square of the oval is:4.442882938158366
+2021-02-21 12:58:09 [main] INFO 
+			com.epam.task3.entity.OvalWarehouse- Successful addition
+2021-02-21 12:58:09 [main] INFO 
+			epam.task3.observer.impl.OvalObserver- Data was updated.
+2021-02-21 12:58:50 [main] INFO 
+			com.epam.task3.action.PerimeterSquareAction- perimeter of the oval is:7.695298980971185
+2021-02-21 12:58:50 [main] INFO 
+			com.epam.task3.action.PerimeterSquareAction- square of the oval is:4.442882938158366
+2021-02-21 12:58:50 [main] INFO 
+			com.epam.task3.entity.OvalWarehouse- Successful addition
+2021-02-21 12:58:50 [main] INFO 
+			epam.task3.observer.impl.OvalObserver- Data was updated.
+2021-02-21 12:58:59 [main] INFO 
+			com.epam.task3.action.PerimeterSquareAction- perimeter of the oval is:7.695298980971185
+2021-02-21 12:58:59 [main] INFO 
+			com.epam.task3.action.PerimeterSquareAction- square of the oval is:4.442882938158366
+2021-02-21 12:58:59 [main] INFO 
+			com.epam.task3.entity.OvalWarehouse- Successful addition
+2021-02-21 12:58:59 [main] INFO 
+			epam.task3.observer.impl.OvalObserver- Data was updated.
+2021-02-21 12:59:07 [main] INFO 
+			com.epam.task3.action.PerimeterSquareAction- perimeter of the oval is:7.695298980971185
+2021-02-21 12:59:07 [main] INFO 
+			com.epam.task3.action.PerimeterSquareAction- square of the oval is:4.442882938158366
+2021-02-21 12:59:07 [main] INFO 
+			com.epam.task3.entity.OvalWarehouse- Successful addition
+2021-02-21 12:59:07 [main] INFO 
+			epam.task3.observer.impl.OvalObserver- Data was updated.
+2021-02-21 12:59:07 [main] INFO 
+			com.epam.task3.action.PerimeterSquareAction- perimeter of the oval is:7.695298980971185
+2021-02-21 12:59:07 [main] INFO 
+			com.epam.task3.action.PerimeterSquareAction- square of the oval is:4.442882938158366
+2021-02-21 12:59:07 [main] INFO 
+			com.epam.task3.entity.OvalWarehouse- Successful addition
+2021-02-21 12:59:07 [main] INFO 
+			epam.task3.observer.impl.OvalObserver- Data was updated.
+2021-02-21 12:59:15 [main] INFO 
+			com.epam.task3.action.PerimeterSquareAction- perimeter of the oval is:7.695298980971185
+2021-02-21 12:59:15 [main] INFO 
+			com.epam.task3.action.PerimeterSquareAction- square of the oval is:4.442882938158366
+2021-02-21 12:59:15 [main] INFO 
+			com.epam.task3.entity.OvalWarehouse- Successful addition
+2021-02-21 12:59:15 [main] INFO 
+			epam.task3.observer.impl.OvalObserver- Data was updated.
+2021-02-21 12:59:15 [main] INFO 
+			com.epam.task3.action.PerimeterSquareAction- perimeter of the oval is:7.695298980971185
+2021-02-21 12:59:15 [main] INFO 
+			com.epam.task3.action.PerimeterSquareAction- square of the oval is:4.442882938158366
+2021-02-21 12:59:15 [main] INFO 
+			com.epam.task3.entity.OvalWarehouse- Successful addition
+2021-02-21 12:59:15 [main] INFO 
+			epam.task3.observer.impl.OvalObserver- Data was updated.
